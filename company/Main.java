@@ -9,8 +9,9 @@ public class Main {
 
     public static void main(String[] args) {
 	    var i = 0;
-        ArrayList<Integer> resultList = new ArrayList<>();
+        List<Integer> resultList = new ArrayList<>();
         List<Integer> ageList = new ArrayList<Integer>(Arrays.asList(18, 20, 21, 21, 23));
+
         Collections.sort(ageList);
         while (ageList.size() >= 2) {
             var sumResult = 2 + ageList.get(i);
