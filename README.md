@@ -1,0 +1,2 @@
+# Assignment_GamesbyAge_2nd
+During one of college anniversary event, the event managers have invited students from nearby colleges. There are roughly 1000 students from all departments with an age range of 18 to 25 years. However to conduct games the event managers need to group students by age range using below condition  Max difference of all students within a group is 2 years  Eg. If there are 5 students of age groups 18, 20, 21, 21, 23
